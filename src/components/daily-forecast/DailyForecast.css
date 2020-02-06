@@ -1,0 +1,20 @@
+.daily-forecast-container {
+    border: solid 2px green; 
+    margin: 20px;
+}
+
+
+.daily-forecast-info {
+    font-size: 1rem;
+    color: #FFD300;
+    border: 5px solid #6F2F54;
+    padding: 10px 12px 0px 12px;
+    border-radius: 8px;
+    background: #2A3D52;
+}
+
+
+.tag-header {
+    color: #01FFC7;
+    font-weight: bolder;
+}

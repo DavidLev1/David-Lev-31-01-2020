@@ -1,0 +1,49 @@
+.favorite-cities {
+    color: #072310;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #000;
+    margin-top: 15px;
+}
+
+.favorite-city {
+    border: 2px solid #2369B8;
+    padding: 15px;
+    border-radius: 7px;
+    background-color: #2DB69C;
+    font-weight: bolder;
+    font-size: 1.3rem;
+    margin: 15px;
+}
+
+.favorite-city-name {
+    font-size: 2rem;
+    font-weight: bolder;
+    font-family: 'david';
+    color: #F0BE01;
+}
+
+.weather-description {
+    font-size: 1rem;
+    margin-top: 4px;
+    margin-bottom: 15px;
+    color: #094764;
+}
+
+.favorite-weather-btn {
+    background-color: #00C1DB;
+    color: #4D1A2E;
+    border-radius: 6px;
+    border: 4px solid #2369B8;
+    margin-top: 5px;
+    font-size: 1rem;
+}
+
+.no-favorites {
+    color: #00FF60;
+    font-weight: bolder;
+    font-size: 2.5rem;
+}

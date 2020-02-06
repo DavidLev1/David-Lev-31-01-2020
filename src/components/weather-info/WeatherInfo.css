@@ -1,0 +1,45 @@
+
+.weather-data {
+    font-size: 1.2rem;
+    color: #140133;
+    border: 7px solid #24EBBB;
+    padding: 10px 12px 0px 12px;
+    border-radius: 8px;
+    background: #EDF3AA;
+    font-weight: 900;
+}
+
+.weather-city-name {
+    color: #FFFD00;
+    font-weight: bolder;
+    font-family: 'david';  
+    font-size: 3rem;
+}
+
+.degree-btn {
+    border-radius: 10px;
+    border: 3px solid #008082;
+    font-weight: 500;
+    background-color: #103a65;
+    font-size: 1rem;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+.favorites-btn {
+    border-radius: 10px;
+    border: 5px solid #C26F07;
+    font-weight: 500;
+    margin-top: 2px;
+    margin-bottom: 15px;
+}
+
+.notice {
+    color: #2E319C;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.weather-description {
+    color: #003D2D;
+}

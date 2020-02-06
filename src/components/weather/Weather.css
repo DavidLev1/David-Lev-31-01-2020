@@ -1,0 +1,39 @@
+.general-info {
+    background: url("../../images/info-bg.jpg") center center no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #000;
+    border-radius: 10px;
+}
+
+.general-info h2 {
+    font-size: 3em;
+    font-weight: bolder;
+    color: #005A70;
+}
+
+.general-info p {
+    color: #97113D;
+    font-weight: 700;
+}
+
+.form {
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.weather-info {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #000;
+    margin-top: 15px;
+}
