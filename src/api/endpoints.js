@@ -15,7 +15,7 @@ export const getWeather = async cityKey => {
   return data;
 };
 
-// Forecast to 5 next days of specific location
+// Forecast to 5 days of specific location
 // Must contain key of that location after FORECAST_5_DAYS_URL_ROOT,
 // for example: Tel Aviv key is 215854
 const FORECAST_5_DAYS_URL_ROOT =
