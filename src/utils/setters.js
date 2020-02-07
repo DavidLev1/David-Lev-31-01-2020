@@ -12,7 +12,6 @@ export class Setters {
       const observationDate = getFormattedDate(observationDateTime);
 
       weatherStore.setCurrentDateWeather({
-        // Now 'weatherStore.currentDateWeather' includes that object
         currentDate: observationDate,
         tempC: localWeatherData[0].Temperature.Metric.Value + "°C",
         tempF: localWeatherData[0].Temperature.Imperial.Value + "°F",
